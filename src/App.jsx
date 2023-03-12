@@ -56,7 +56,7 @@ function App() {
           <div className="w-3/4 mt-4">
             <button
               type="submit"
-              className="py-4 bg-blue-400 w-full rounded text-blue-50 font-bold hover:bg-blue-700"
+              className="py-4 bg-blue-400 w-full rounded text-blue-50 font-bold hover:bg-blue-600"
             >
               {" "}
               LOGIN
